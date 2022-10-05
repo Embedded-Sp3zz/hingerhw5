@@ -4,7 +4,14 @@
 # None
 
 # Output:
-# 
+# Reads integer value in range 1-5 from file invocationCount.int
+# commanderBash.sh completes a different task to USR3 LED per invocation.
+
+# 1. Turn on USR3 LED
+# 2. Turn off USR3 LED
+# 3. Echo the status of USR3 LED
+# 4. Flash the USR3 LED
+# 5. Blink the USR3 LED 3 times 
 
 
 # Example invocation:
